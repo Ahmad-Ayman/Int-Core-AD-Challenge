@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "488339704585",
+    "firebase_url": "https://intcorechallenge.firebaseio.com",
+    "project_id": "intcorechallenge",
+    "storage_bucket": "intcorechallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488339704585:android:7e661bc730a71fb7",
+        "android_client_info": {
+          "package_name": "com.freelance.ahmed.intcorechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488339704585-ups2jv4h1qvhbm0ou4imb80fmso2674a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelance.ahmed.intcorechallenge",
+            "certificate_hash": "6aab7c35642ff3ca152c807b44a070ab8313372f"
+          }
+        },
+        {
+          "client_id": "488339704585-96sm1i52ee24habn611e2jv5alphjuts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vBWvDtnj4xB0NWLO3HPgPnW_dxoeiBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488339704585-96sm1i52ee24habn611e2jv5alphjuts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488339704585:android:85211d010c7865f4",
+        "android_client_info": {
+          "package_name": "com.freelance.ahmed.mychallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488339704585-326nkqo81m2uuoeeqae2ask7gth5kplc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelance.ahmed.mychallenge",
+            "certificate_hash": "6aab7c35642ff3ca152c807b44a070ab8313372f"
+          }
+        },
+        {
+          "client_id": "488339704585-96sm1i52ee24habn611e2jv5alphjuts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vBWvDtnj4xB0NWLO3HPgPnW_dxoeiBc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488339704585-96sm1i52ee24habn611e2jv5alphjuts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
